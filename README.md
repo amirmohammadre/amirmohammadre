@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Blockchain Technology**
 
-- 💬 Ask me about **GNU/Linux, Security, Virtualization And DevOps**
+- 💬 Ask me about **GNU/Linux, Security, Virtualization, Cloud computing And DevOps**
 
 - 📫 How to reach me **amirmohammadrezvaninia@gmail.com**
 
