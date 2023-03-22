@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Blockchain Technology**
 
-- 🌱 I’m currently learning **Game theory**
+- 🌱 I’m currently learning **Game theory & Hyperledger Fabric**
 
 - 💬 Ask me about **GNU/Linux, Security, Virtualization, Cloud Computing And DevOps**
 
