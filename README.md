@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">My name is Amir Mohammad Rezvaninia <br>I'm a Mid-level DevSecOps Engineer</h2>
+<h2 align="left">My name is Amir Mohammad Rezvaninia <br><br>I'm a Mid-level DevSecOps Engineer</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- I’m currently working on Blockchain Technology<br>- I’m currently learning Game theory & Hyperledger Fabric<br>- Ask me about GNU/Linux, Security, Virtualization, Cloud Computing And DevOps<br>- How to reach me amirmohammadrezvaninia@gmail.com</p>
+<p align="left">I am interested in managing and maintaining Linux servers, virtualizing them and also their security. I have been familiar with DevOps topics and its tools for several years and have started learning them. I am currently working on blockchain technology and combining it with game theory algorithms. I have also learned the Hyperledger Fabric platform, which is an open source blockchain framework.</p>
 
 ###
 
