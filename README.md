@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I am interested in managing and maintaining Linux servers, virtualizing them and also their security. I have been familiar with DevOps topics and its tools for several years and have started learning them. I am currently working on blockchain technology and combining it with game theory algorithms. I have also learned the Hyperledger Fabric platform, which is an open source blockchain framework.</p>
+<p align="left">I am interested in managing and maintaining Linux servers, virtualizing them and also their security. I have been familiar with DevOps topics and its tools for several years and have started learning them. <br>I am currently working on blockchain technology and combining it with game theory algorithms. I have also learned the Hyperledger Fabric platform, which is an open source blockchain framework.</p>
 
 ###
 
