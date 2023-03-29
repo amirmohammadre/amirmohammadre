@@ -3,7 +3,7 @@
 
 
 
-#### A Mid-level DevSecOps Engineer
+### A Mid-level DevSecOps Engineer
 
 ## 🚀 About Me
 I am interested in managing and maintaining Linux servers, virtualizing them and also their security. I have been familiar with DevOps topics and its tools for several years and have started learning them.
